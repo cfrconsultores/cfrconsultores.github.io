@@ -1,0 +1,41 @@
+.top img, .top span {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.titulo,  .sub-titulo {
+	font-size: 48px;
+	margin-right: 20px;
+}
+
+.titulo {
+	color: #093052;
+}
+
+.sub-titulo {
+	color: #85AD30;
+}
+
+nav {
+	background-color: #222;
+	padding: 2em 0;
+	line-height: 1em;
+	font-size: 1.5em;
+}
+
+nav li a {
+	font-size: 2em;
+}
+
+nav a, nav a:visited {
+	color: #999;
+}
+
+nav a, nav a:active {
+	color: #fff;
+}
+
+nav ul li {
+	display: inline;
+	padding-right: 25px;
+}
