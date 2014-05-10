@@ -31,27 +31,20 @@
 
 
 </head>
-	<body>
+<body>
 
 <!-- Whole Body Div -->
-<div class="row">
-<div class="twelve columns centered">
-
-
-{% include nav.html %}
-
-<!-- Main page content -->
-<div id="wrapper">
-
-
-	{{ content }}
-
-
-<!-- end wrapper -->
-</div>
-
-
-
+<div class="row whole">
+  <div class="twelve columns centered">
+      {% include top.html %}
+      {% include nav.html %}
+    <!-- Main page content -->
+    <div id="wrapper" class="row">
+      <div class="twelve columns">
+    	   {{ content }}
+      </div>
+    <!-- end wrapper -->
+    </div>
   <!-- End Whole-Body Div -->
   </div>
 </div>
