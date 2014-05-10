@@ -1,3 +1,5 @@
 markdown: kramdown
 safe: true
 lsi: false
+prose:
+  siteurl: 'http://cfrconsultores.com'
