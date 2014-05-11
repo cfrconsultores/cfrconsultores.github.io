@@ -1,3 +1,8 @@
+---
+layout: default
+title: Impuestos - CFR
+---
+
 # Impuestos
 
 ## + Planificación Fiscal = + Eficiencia $
