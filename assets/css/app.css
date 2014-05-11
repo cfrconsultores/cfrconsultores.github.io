@@ -1,21 +1,42 @@
 body {
-	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	background-color: #f3f3f3;
 	font-size: 16px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
-p {
+body p {
 	font-size: 1.3em;
+}
+
+body li {
+	list-style-type: square;
+	margin: 1em 3em;
+	font-size: 1.2em;
 }
 
 .row.whole {
 	background-color: #fff;
 	min-height: 600px;
+	padding-bottom: 5em;
+}
+
+.row.header {
+	background-color: #fff;
+	padding: 0;
+}
+
+.row.footer {
+	background-color: #333;
+	color: #f3f3f3;
+	padding: 1.5em;
 }
 
 h1 {
 	text-align: center;
-	font-family: Raleway, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: Raleway, Helvetica, Arial, sans-serif;
+	font-weight: normal;
 	padding: 0.5em;
 }
 
@@ -25,8 +46,7 @@ h1 {
 }
 
 .titulo,  .sub-titulo {
-	font-family: serif;
-	font-weight: bold;
+	font-family: 'Sorts Mill Goudy', 'Times New Roman', serif ;
 	font-size: 48px;
 	margin-right: 20px;
 }
@@ -51,15 +71,48 @@ nav {
 
 .nav-bar li {
 	display: inline;
-	padding-right: 2em
+	padding-right: 2em;
+	margin: 0;
+}
+
+.touch .nav-bar li a {
+	font-size: 1.3em;
 }
 
 nav a, a:visited {
-	font-size: 1.3em;
 	font-style: italic;
 	color: #BBB;
 }
 
 nav a:active, nav a:hover {
 	color: #fff;
+}
+
+/* SERVICIOS */
+
+.imagen-servicios {
+	text-align: center
+}
+
+.imagen-servicios img {
+	width: 470px;
+	height: 409px;
+}
+
+.lista-servicios li {
+	list-style-type: none;
+}
+
+/* ALIANZAS */
+.alianzas #wrapper h3 {
+	text-align: center;
+	color: #999;
+}
+.alianzas .logo {
+	margin-top: 5em;
+	text-align: center;
+}
+.alianzas .logo img{
+	width: 100px;
+	height: 100px;
 }
