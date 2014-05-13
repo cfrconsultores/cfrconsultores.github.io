@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Contabilidad - CFR
+id: contabilidad
 ---
 
-#Contabilidad
+# Contabilidad
 
-##Legal + Herramienta (real) de Gestión del Negocio
+## "Legal + Herramienta (real) de Gestión del Negocio"
 
 Elaboración y presentación de Estado Contables.
 

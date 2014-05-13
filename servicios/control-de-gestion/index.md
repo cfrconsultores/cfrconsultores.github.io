@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Control de Gestión - CFR
+id: control-de-gestion
 ---
 
 #Control de Gestión

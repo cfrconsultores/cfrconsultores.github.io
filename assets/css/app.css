@@ -141,3 +141,15 @@ nav a:active, nav a:hover {
 	width: 100px;
 	height: 100px;
 }
+
+body.contabilidad p, body.impuestos p, body.comercial p, body.finanzas p, body.control-de-gestion p {
+	text-align: center;
+	font-style: italic;
+	color: #777;
+}
+
+body.contabilidad h2, body.impuestos h2, body.comercial h2, body.finanzas h2, body.control-de-gestion h2 {
+	text-align: center;
+	font-size: 1.5em;
+	margin-bottom: 1.5em;
+}

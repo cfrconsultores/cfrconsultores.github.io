@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Impuestos - CFR
+id: impuestos
 ---
 
 # Impuestos
