@@ -1,7 +1,7 @@
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	background-color: #f3f3f3;
-	font-size: 16px;
+	font-size: 14px;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
@@ -9,6 +9,7 @@ body {
 body p {
 	font-size: 1.3em;
 	color: #666;
+	margin-bottom: 1.6em;
 }
 
 body li {
