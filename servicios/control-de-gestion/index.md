@@ -1,3 +1,8 @@
+---
+layout: default
+title: Control de Gestión - CFR
+---
+
 #Control de Gestión
 
 ##+ Conocimiento y Dominio de Todas las Variables del Negocio

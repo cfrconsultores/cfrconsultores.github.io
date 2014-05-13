@@ -1,6 +1,11 @@
+---
+layout: default
+title: Contabilidad - CFR
+---
+
 #Contabilidad
 
-##Legal + Herramienta (real) de Gestión del Negocio 
+##Legal + Herramienta (real) de Gestión del Negocio
 
 Elaboración y presentación de Estado Contables.
 
