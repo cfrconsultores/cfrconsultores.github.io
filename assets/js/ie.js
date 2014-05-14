@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-  $('body').on('click', '#link-servicios', function(ev) {
+  $('body').on('click', '.direct-link', function(ev) {
     ev.preventDefault();
     window.location.href = $(ev.target).attr('href');
   });

@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Novedades - CFR
+id: novedades
 ---
 
 # Novedades
 
-## Legislación
+## [Legislación](/novedades/legislacion/)
 
-## Artículos de Interés
+## [Artículos de Interés](/novedades/articulos-de-interes/)
