@@ -43,6 +43,16 @@ h1 {
 	padding: 0.5em;
 }
 
+@media only screen and (max-width: 40.063em) {
+.top img, .top span {
+	display: inline;
+	vertical-align: middle;
+	text-align: middle;
+	font-size: 1.5em;
+}
+
+}
+
 .top img, .top span {
 	display: inline-block;
 	vertical-align: middle;
@@ -132,16 +142,16 @@ nav a:active, nav a:hover {
 /* ALIANZAS */
 .alianzas #wrapper h3 {
 	text-align: center;
-	color: #999;
+	color: #555;
 }
 .alianzas .logo {
-	margin-top: 5em;
 	text-align: center;
 }
 .alianzas .logo img{
 	width: 100px;
 	height: 100px;
 }
+
 
 body.contabilidad p, body.impuestos p, body.comercial p, body.finanzas p, body.control-de-gestion p {
 	text-align: center;
