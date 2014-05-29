@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Contabilidad - CFR
+title: "Contabilidad - CFR"
 id: contabilidad
+published: true
 ---
 
 # Contabilidad
@@ -19,3 +20,7 @@ Asesoramiento en materia de societaria.
 Asesoramiento en materia de registraciones y exposición con foco en la gestión del negocio.
 
 Auditoría externa de Estados Contables.
+
+Contratos de Fideicomiso Inmobiliario: “Fiduciario”.
+
+Auditoría Interna.
