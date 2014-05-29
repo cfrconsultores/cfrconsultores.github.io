@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Impuestos - CFR
+title: "Impuestos - CFR"
 id: impuestos
+published: true
 ---
 
 # Impuestos
@@ -24,3 +25,5 @@ Regímenes de promoción industrial (Provincia de Buenos Aires).
 Informes de Precios de Transferencia.
 
 Asesoramiento integral en materia fiscal a empresas y personas físicas.
+
+Asesoramiento a Directores y Accionistas (Impuesto a las Ganancias, Bienes Personales, etc.).
