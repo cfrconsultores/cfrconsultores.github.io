@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Control de Gestión - CFR
-id: control-de-gestion
+title: "Control de Gestión - CFR"
+id: "control-de-gestion"
+published: true
 ---
 
 #Control de Gestión
 
 ##+ Conocimiento y Dominio de Todas las Variables del Negocio
+
+**Planes de Negocio Integrales.**
 
 Desarrollo de tableros de comando de las principales variables del negocio para la toma de decisiones (WC, ventas, costos, contribución marginal,…..).
 
