@@ -20,7 +20,7 @@ Inscripciones y reempadronamiento  de monotributo.
 
 Repeticiones, solicitudes de devolución y solicitudes de exención (impuestos / regímenes de retención y percepción).
 
-Regímenes de promoción industrial (Provincia de Buenos Aires).
+Regímenes de promoción industrial (Provincia de Buenos Aires, Incentivo de Bienes de Capital, etc.).
 
 Informes de Precios de Transferencia.
 
