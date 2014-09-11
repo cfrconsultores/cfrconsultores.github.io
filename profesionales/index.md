@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Profesionales - CFR
+title: "Profesionales - CFR"
+published: true
 ---
 
 # Profesionales
@@ -25,3 +26,14 @@ En cuanto al desarrollo doctrinario en la materia tributaria es expositor en jor
 + “Promoción Industrial en la Provincia de Buenos Aires”– Revista de Derecho Fiscal N° 4/2008 – Editorial AbeledoPerrot.
 + ”Precios de Transferencia. Tratamiento de los Servicios Intragrupo” – Libro “Convenios Para Evitar la Doble Imposición Internacional” – Editorial La Ley. 2010.
 + “Aspectos Controvertidos de la Fiscalidad de los Servicios Intragrupo” – Revista de Derecho Fiscal N° 1/2010 – Editorial AbeledoPerrot.
+
+
+## Fernanda Daguerre
+
+> Contadora Pública con amplia experiencia en materia impositiva.
+
+Egresada  de  la  Facultad  de  Ciencias  Económicas  de  la Universidad Nacional de la Plata en el año 2006. 
+
+Posee más de 8 años de experiencia profesional en las áreas de Administración  y  Finanzas  en  empresas  líderes,  locales  y multinacionales.  Previamente  a  la  creación  de  “CFR Consultores”,  fue  especialista  en  pequeñas  y  medianas empresas  en  el  Estudio  Contable  Daguerre.  Anteriormente trabajó  como  Especialista  de  Impuestos  en  el  Grupo  Cepas Argentinas.  Además,  se  desempeñó,  por  más  de  5  años,  en PricewaterhouseCoopers  como  Senior  de  Impuestos.  En  sus comienzos, actuó en las áreas de Administración y Contablidad de Vetifarma S.A.
+
+Ha  participado  en  numerosos  “due-diligences”  en  aspectos tributarios,  en  solicitudes  de  recupero  de  IVA  para  grandes automotrices  y  en  la  confección  y  revisión  de  declaraciones juradas de grandes empresas y personas físicas.
