@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "RG_3674 (AFIP) - Impuesto del 10% sobre dividendos y utilidades - CFR"
+title: "RG 3674 (AFIP) - Impuesto del 10% sobre dividendos y utilidades - CFR"
 id: 2014-09-25-RG3674-afip-impuesto-dividendos-y-utilidades
 published: true
 ---
