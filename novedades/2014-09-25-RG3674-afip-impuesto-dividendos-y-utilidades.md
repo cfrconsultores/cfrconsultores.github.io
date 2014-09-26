@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RG_3674 (AFIP) - Impuesto del 10% sobre dividendos y utilidades - CFR"
+id: 2014-09-25-RG3674-afip-impuesto-dividendos-y-utilidades
+published: true
+---
+
 #RG_3674 (AFIP) - Impuesto del 10% sobre dividendos y utilidades
 
 El 12/09/2014 se publicó la RG 3674 (AFIP) por medio de la cual se reglamentó la forma y plazo para el ingreso del impuesto del 10% sobre la distribución de dividendos y utilidades, el cual fuera establecido en la modificación de la Ley de Impuesto a las Ganancias del 23/09/2013, por medio de la Ley 26.893.
