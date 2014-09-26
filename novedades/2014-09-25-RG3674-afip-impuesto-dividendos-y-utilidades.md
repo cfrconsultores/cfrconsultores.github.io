@@ -12,7 +12,6 @@ En este punto es pertinente remarcar que la doctrina del fallo de la Corte Supre
 Cuando la misma sea beneficiarios del país.
 ![25 sept 2014.jpg](/novedades/25 sept 2014.jpg)
 
-
 Cuando la misma sea a beneficiarios del exterior.
 ![25 sept 2014 2.jpg](/novedades/25 sept 2014 2.jpg)
 
