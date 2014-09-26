@@ -26,7 +26,3 @@ En caso de imposibilidad de retener, el monto deberá ser ingresado por la entid
 
 **3.	Período de Regularización**
 Por último, la Resolución General aclara que para los dividendos y/o utilidades puestos a disposición de sus beneficiarios entre el 23 de septiembre y 12 de septiembre de 2014, respecto de los cuales no se practicó retención, la misma se considerará ingresada en termino si se realiza hasta el último día del mes de septiembre de 2014. Esto deberá ser cumplido por los beneficiarios de las rentas en el caso de beneficiarios residentes en el país y por el sujeto pagador de las rentas en el case de beneficiarios del exterior. A su vez, cuando el agente de retención hubiere practicado la misma sin haber efectuado su ingreso, este se considerará en término si se realiza hasta la fecha límite prevista en el párrafo anterior.
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
