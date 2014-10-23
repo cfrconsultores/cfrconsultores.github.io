@@ -1,19 +1,11 @@
 ---
 layout: default
-title: Alianzas - CFR
+title: "Alianzas - CFR"
 id: alianzas
+published: true
 ---
 
 # Alianzas
-
-![YASA Consultores](/assets/images/alianzas/yasa-logo.png)
-{: .logo}
-
-### YASA Consultores
-
-Socio: **“Cdor. Javier Yalj”**, egresado de la UBA, con más de 15 años de experiencia profesional. Previamente se desempeñó como Socio de la firma “PGK Consultores” y como “Gerente de Impuestos de Deloitte de Argentina”.
-
-“YASA” es firma miembro de **“WTP Advisors”**, firma internacional especializada en el asesoramiento tributario, que posee presencia global prestando servicios a clientes multinacionales a través de oficinas afiliadas en los principales países del mundo.
 
 ![Requena Abogados](/assets/images/alianzas/requena-logo.png)
 {: .logo}
