@@ -9,6 +9,10 @@ published: true
 
 ## 2015
 
+### Febrero
+
++ [Informe de Novedades Tributarias (CFR) N° 5](/informes/pdf/Informe Febrero 2015_CFR Consultores.pdf)
+
 ### Enero
 
 + [Informe de Novedades Tributarias (CFR) N° 4](/informes/pdf/Informe Enero 2015_CFR Consultores.pdf)
