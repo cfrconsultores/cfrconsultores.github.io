@@ -1,63 +1,20 @@
 <!DOCTYPE html>
+<html>
 
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+  {% include head.html %}
 
-  <!-- Set the viewport width to device width for mobile -->
-  <meta name="viewport" content="width=device-width" />
+    <body id="page-top" class="index">
 
-  <title>{{ page.title }}</title>
+    {% include header.html %}
+    {% include about.html %}
+    {% include services.html %}
+    {% include team.html %}
+    {% include portfolio_grid.html %}
+    {% include clients.html %}
+    {% include contact.html %}
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
 
-  <!-- CSS Files -->
-  <link rel="stylesheet" href="/assets/css/normalize.css">
-  <link rel="stylesheet" href="/assets/css/foundation.min.css">
-  <link rel="stylesheet" href="/assets/css/app.css">
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700|Raleway' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy&text=CFRConsultores' rel='stylesheet' type='text/css'>
-  <script src="/assets/js/jquery.js"></script>
-  <script src="/assets/js/vendor/fastclick.js"></script>
-  <script src="/assets/js/vendor/modernizr.js"></script>
-  <script src="/assets/js/foundation.min.js"></script>
-	<script src="/assets/js/app.js"></script>
-
-  <!-- IE Fix for HTML5 Tags -->
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
-    <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
-    <link rel="stylesheet" href="/assets/css/ie.css">
-    <script src="/assets/js/ie.js"></script>
-  <![endif]-->
-
-</head>
-<body class="{{ page.id }}">
-<div class="row header">
-  {% include top.html %}
-  {% include nav.html %}
-</div>
-<!-- Whole Body Div -->
-<div class="row whole">
-  <div class="twelve columns centered">
-    <!-- Main page content -->
-    <div id="wrapper" class="row">
-      <div class="medium-offset-1 medium-10 columns centered">
-    	   {{ content }}
-      </div>
-    <!-- end wrapper -->
-    </div>
-  <!-- End Whole-Body Div -->
-  </div>
-</div>
-<div class="row footer">
-  {% include footer.html %}
-</div>
-<script>
-  $(document).foundation();
-</script>
-</body>
+    </body>
 </html>

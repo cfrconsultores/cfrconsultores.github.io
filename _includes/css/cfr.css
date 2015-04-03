@@ -1,0 +1,39 @@
+.navbar-default.navbar-shrink .navbar-brand .logo {
+  max-height: 45px;
+}
+.navbar-default.navbar-shrink .navbar-brand .cfr {
+  font-size: 1em;
+}
+.navbar-default.navbar-shrink .navbar-brand .consultores {
+  font-size: 0.8em;
+}
+
+.navbar-brand {
+  padding-top: 10px
+}
+
+.navbar-brand .logo {
+  max-height: 80px;
+}
+
+a.navbar-brand .cfr {
+  font-family: "Roboto Slab", Helvetica, Sans;
+  color: #064265;
+  font-size: 1.3em;
+  text-shadow:
+     -1px -1px 0 #555,
+      1px -1px 0 #555,
+      -1px 1px 0 #555,
+       1px 1px 0 #555;
+}
+
+a.navbar-brand .consultores {
+  font-family: Lora, Serif;
+  color: #9ABB3F;
+  font-size: 1em;
+  text-shadow:
+     -1px -1px 0 #555,
+      1px -1px 0 #555,
+      -1px 1px 0 #555,
+       1px 1px 0 #555;
+}
