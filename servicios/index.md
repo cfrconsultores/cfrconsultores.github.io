@@ -46,7 +46,8 @@ Informes de Precios de Transferencia.
 Asesoramiento integral en materia fiscal a empresas y personas físicas.
 
 Asesoramiento a Directores y Accionistas (Impuesto a las Ganancias, Bienes Personales, etc.).
-##Finanzas
+
+## Finanzas
 
 ###(-) Costo de Capital de Trabajo + ROI
 
@@ -62,7 +63,7 @@ Evaluación de Proyectos de Inversión.
 
 Asesoramiento en materia de instrumentos de financiamiento para capital de trabajo e inversiones en activos fijo.
 
-##Contabilidad
+## Contabilidad
 
 ### "Legal + Herramienta (real) de Gestión del Negocio"
 
@@ -82,7 +83,7 @@ Contratos de Fideicomiso Inmobiliario: “Fiduciario”.
 
 Auditoría Interna.
 
-##Control de Gestión
+## Control de Gestión
 
 ###+ Conocimiento y Dominio de Todas las Variables del Negocio
 
@@ -104,7 +105,7 @@ Desarrollo de sistemas de costeo.
 
 Desarrollo de “Estados de Resultados (“P&L”)”  de gestión por canal/región/línea de negocio/familia de productos.
 
-##Comercial
+## Comercial
 
 ###+ Valor para el Negocio + Oportunidades
 

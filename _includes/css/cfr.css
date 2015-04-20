@@ -55,22 +55,22 @@ a.navbar-brand .consultores {
   font-size: 32px;
 }
 
-.internal .container h2 {
+.internal #servicios .container h2 {
   padding-top: 100px;
 }
 
 @media(min-width:768px) {
-  .internal .container h2 {
+  .internal #servicios .container h2 {
     padding-top: 150px;
   }
 }
 
-#servicios .navigation, #servicios .lista-servicios {
+.internal #servicios .navigation, .internal #servicios .lista-servicios {
   text-align: center;
   list-style: none;
 }
 
-#servicios .navigation img {
+.internal #servicios .navigation img {
   width: 470px;
   height: 409px;
   display: inline-block;
