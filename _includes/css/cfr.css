@@ -54,3 +54,24 @@ a.navbar-brand .consultores {
 .internal header .intro-text .intro-heading {
   font-size: 32px;
 }
+
+.internal .container h2 {
+  padding-top: 100px;
+}
+
+@media(min-width:768px) {
+  .internal .container h2 {
+    padding-top: 150px;
+  }
+}
+
+#servicios .navigation, #servicios .lista-servicios {
+  text-align: center;
+  list-style: none;
+}
+
+#servicios .navigation img {
+  width: 470px;
+  height: 409px;
+  display: inline-block;
+}
