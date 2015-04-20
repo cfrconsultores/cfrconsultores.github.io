@@ -26,37 +26,19 @@ people:
   pic: carlos
   position: Socio
   email: carlos.reyes@cfrconsultores.com
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  slug: carlos-reyes
 
 - name: Laura Alvarez Moser
   pic: laura
   position: Socia
   email: laura.alvarezmoser@cfrconsultores.com
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  slug: laura-alvarez-moser
 
 - name: María Fernanda Daguerre
   pic: mfernanda
   position: Socia
   email: fernanda.daguerre@cfrconsultores.com
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  slug: maria-fernanda-daguerre
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

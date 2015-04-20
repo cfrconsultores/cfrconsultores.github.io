@@ -1,14 +1,13 @@
 ---
-layout: default
-title: "Profesionales - CFR"
+layout: internal
+title: "Carlos Reyes - CFR"
+heading: Carlos Reyes
+subtitle: Contador Público con amplia experiencia en materia de gestión de negocios en las áreas de Administración, Comercial y Finanzas.
+section: profesionales
 published: true
 ---
 
-# Profesionales
-
-## Carlos Francisco Reyes
-
-> Contador Público con amplia experiencia en materia de gestión de negocios en las áreas de Administración, Comercial y Finanzas.
+## Curriculum Vitae
 
 Egresado de la Facultad de Ciencias Económicas de la Universidad de Buenos Aires en el año 1997. La formación académica se complementó con un Posgrado en Tributación en la Universidad del Museo Social Argentino en el año 2004 y con un “Master in Business Administration (MBA)” en la Universidad del CEMA en el año 2010.
 
@@ -27,25 +26,4 @@ En cuanto al desarrollo doctrinario en la materia tributaria es expositor en jor
 + ”Precios de Transferencia. Tratamiento de los Servicios Intragrupo” – Libro “Convenios Para Evitar la Doble Imposición Internacional” – Editorial La Ley. 2010.
 + “Aspectos Controvertidos de la Fiscalidad de los Servicios Intragrupo” – Revista de Derecho Fiscal N° 1/2010 – Editorial AbeledoPerrot.
 
-
-## Fernanda Daguerre
-
-> Contadora Pública con amplia experiencia en materia impositiva.
-
-Egresada  de  la  Facultad  de  Ciencias  Económicas  de  la Universidad Nacional de la Plata en el año 2006.
-
-Posee más de 8 años de experiencia profesional en las áreas de Administración  y  Finanzas  en  empresas  líderes,  locales  y multinacionales.  Previamente  a  la  creación  de  “CFR Consultores”,  fue  especialista  en  pequeñas  y  medianas empresas  en  el  Estudio  Contable  Daguerre.  Anteriormente trabajó  como  Especialista  de  Impuestos  en  el  Grupo  Cepas Argentinas.  Además,  se  desempeñó,  por  más  de  5  años,  en PricewaterhouseCoopers  como  Senior  de  Impuestos.  En  sus comienzos, actuó en las áreas de Administración y Contablidad de Vetifarma S.A.
-
-Ha  participado  en  numerosos  “due-diligences”  en  aspectos tributarios,  en  solicitudes  de  recupero  de  IVA  para  grandes automotrices  y  en  la  confección  y  revisión  de  declaraciones juradas de grandes empresas y personas físicas.
-
-## Laura Álvarez Moser
-
-> Contadora Pública con amplia experiencia en materia impositiva, administrativa y financiera.
-
-Egresada de la Facultad de Ciencias Económicas de la Universidad de Belgrano en el año 2003. La formación académica se complementó con Posgrado en Normas Contables Internaciones en la Universidad de Buenos Aires en el año 2010 y un Master en Finanzas en la Universidad del CEMA en el año 2008.
-
-Posee más de 12 años de experiencia profesional en las áreas de Impuestos, Administración, Finanzas en empresas líderes, locales como multinacionales. Previamente a la creación de “CFR Consultores”, fue Gerente de Finanzas en Clorox Argentina S.A. Con anterioridad se desempeñó en el Grupo Cepas Argentinas donde lideró las áreas de Impuestos y Seguros. También fue SemiSenior de Impuestos en Ernst & Young (Pistrelli, Henry Martin y Asoc.).
-
-Ha logrado la obtención de importantes beneficios impositivos (ej. Promoción Industrial Provincia de Buenos Aires), ha logrado la resolución favorable de determinadas causas ante el Tribunal Fiscal de la Nación, ha participado en numerosos “duedilinges” en aspectos tributarios y legales, ha propuesto e implementado estructuraciones de operaciones locales e internacionales en busca de eficiencias impositivas (Planificación Fiscal), ha liderado la implementación de los módulos impositivo (Tax) y financieros (Record To Report y Source To Pay) de SAP, ha analizado junto con el equipo de Ventas e implementado nuevos canales de distribución (“go to market”), etc.
-
-En el ámbito académico se ha desempeñado como Profesora de Impuestos en la Facultad de Ciencias Económicas de la Universidad Católica Argentina.
+### [Equipo de Profesionales](/#profesionales)

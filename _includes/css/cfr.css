@@ -37,3 +37,20 @@ a.navbar-brand .consultores {
       -1px 1px 0 #555,
        1px 1px 0 #555;
 }
+
+.internal header {
+  background: #222;
+
+}
+
+.internal header .intro-text {
+  padding-top: 8em;
+  padding-bottom: 1em;
+}
+
+.internal header .intro-text .intro-lead-in {
+  font-size: 24px;
+}
+.internal header .intro-text .intro-heading {
+  font-size: 32px;
+}
