@@ -29,7 +29,7 @@ subtitle: Optimizando tu negocio
 ### + Planificación Fiscal = + Eficiencia $
 
 
-Planificación fiscal, estructuración de operaciones (compras y venta de negocios) y “duediligences”.
+Planificación fiscal, estructuración de operaciones (compra y venta de negocios) y “duediligences”.
 
 Declaraciones juradas de impuestos nacionales, provinciales y municipales.
 
