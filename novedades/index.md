@@ -8,6 +8,10 @@ id: novedades
 
 ## 2015
 
+### Septiembre
+
++ [Informe de Novedades Tributarias (CFR) N° 12](/informes/pdf/Informe Septiembre 2015_CFR Consultores.pdf)
+
 ### Agosto
 
 + [Informe de Novedades Tributarias (CFR) N° 11](/informes/pdf/Informe Agosto 2015_CFR Consultores.pdf)
