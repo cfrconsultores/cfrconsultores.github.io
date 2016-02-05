@@ -6,6 +6,12 @@ subtitle: te mantendremos actualizado
 id: novedades
 ---
 
+## 2016
+
+### Enero
+
++ [Informe de Novedades Tributarias (CFR) N° 16](/informes/pdf/Informe Enero 2016_CFR Consultores.pdf)
+
 ## 2015
 
 ### Diciembre
