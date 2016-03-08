@@ -8,6 +8,10 @@ id: novedades
 
 ## 2016
 
+### Febrero
+
++ [Informe de Novedades Tributarias (CFR) N° 17](/informes/pdf/Informe Febrero 2016_CFR Consultores.pdf)
+
 ### Enero
 
 + [Informe de Novedades Tributarias (CFR) N° 16](/informes/pdf/Informe Enero 2016_CFR Consultores.pdf)
