@@ -1,12 +1,16 @@
 ---
-layout: internal
 title: Novedades - CFR
+layout: internal
 heading: Novedades
 subtitle: te mantendremos actualizado
 id: novedades
 ---
 
 ## 2016
+
+### Junio
+
++ [Informe de Novedades Tributarias (CFR) N° 21](/informes/pdf/Informe Junio 2016_CFR Consultores.pdf)
 
 ### Mayo
 
