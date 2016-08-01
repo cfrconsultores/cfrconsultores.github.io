@@ -8,6 +8,10 @@ id: novedades
 
 ## 2016
 
+### Julio
+
++ [Informe de Novedades Tributarias (CFR) N° 22](/informes/pdf/Informe Julio 2016_CFR Consultores.pdf)
+
 ### Junio
 
 + [Informe de Novedades Tributarias (CFR) N° 21](/informes/pdf/Informe Junio 2016_CFR Consultores.pdf)
