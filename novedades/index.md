@@ -8,6 +8,10 @@ id: novedades
 
 ## 2016
 
+### Agosto
+
++ [Informe Consultores Ley de Fomento PYMES](/informes/pdf/Informe CFR Consultores Ley de Fomento PYMES.pdf)
+
 ### Julio
 
 + [Informe de Novedades Tributarias (CFR) N° 22](/informes/pdf/Informe Julio 2016_CFR Consultores.pdf)
