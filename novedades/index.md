@@ -10,7 +10,7 @@ id: novedades
 
 ### Agosto
 
-+ [Régimen de Sinceramiento Fiscal](/informes/pdf/Informe CFR Consultores Régimen de Sinceramiento Fiscal Agosto_2016.pdf)
++ [Régimen de Sinceramiento Fiscal](/informes/pdf/Informe CFR Consultores Regimen de Sinceramiento Fiscal Agosto_2016.pdf)
 + [Informe Consultores Ley de Fomento PYMES](/informes/pdf/Informe CFR Consultores Ley de Fomento PYMES.pdf)
 
 ### Julio
