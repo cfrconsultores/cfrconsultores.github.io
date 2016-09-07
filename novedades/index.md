@@ -10,6 +10,7 @@ id: novedades
 
 ### Agosto
 
++ [Informe de Novedades Tributarias (CFR) N° 23](/informes/pdf/Informe Agosto 2016_CFR Consultores.pdf)
 + [Régimen de Sinceramiento Fiscal](/informes/pdf/Informe CFR Consultores Regimen de Sinceramiento Fiscal Agosto_2016.pdf)
 + [Informe Consultores Ley de Fomento PYMES](/informes/pdf/Informe CFR Consultores Ley de Fomento PYMES.pdf)
 
