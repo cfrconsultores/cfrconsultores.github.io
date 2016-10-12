@@ -8,6 +8,10 @@ id: novedades
 
 ## 2016
 
+### Septiembre
+
++ [Informe de Novedades Tributarias (CFR) N° 24](/informes/pdf/Informe Septiembre 2016_CFR Consultores.pdf)
+
 ### Agosto
 
 + [Informe de Novedades Tributarias (CFR) N° 23](/informes/pdf/Informe Agosto 2016_CFR Consultores.pdf)
