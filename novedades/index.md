@@ -8,6 +8,11 @@ id: novedades
 
 ## 2016
 
+### Noviembre
+
++ [Informe de Novedades Tributarias (CFR) N° 26](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 26.pdf)
++ [Ley de Fomento para la Pequeña y Eediana Empresa](/informes/pdf/Informe (CFR) Ley de Fomento PyMES_Reglamentación.pdf)
+
 ### Octubre
 
 + [Informe de Novedades Tributarias (CFR) N° 25](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 25.pdf)
