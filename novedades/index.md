@@ -8,6 +8,10 @@ id: novedades
 
 ## 2016
 
+### Diciembre
+
++ [Informe de Novedades Tributarias (CFR) N° 27](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 27.pdf)
+
 ### Noviembre
 
 + [Informe de Novedades Tributarias (CFR) N° 26](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 26.pdf)
