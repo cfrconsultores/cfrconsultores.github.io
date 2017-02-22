@@ -6,6 +6,12 @@ subtitle: te mantendremos actualizado
 id: novedades
 ---
 
+## 2017
+
+### Enero
+
++ [Informe de Novedades Tributarias (CFR) N° 28](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 28.pdf)
+
 ## 2016
 
 ### Diciembre
