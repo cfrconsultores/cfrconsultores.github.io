@@ -8,6 +8,10 @@ id: novedades
 
 ## 2017
 
+### Febrero
+
++ [Informe de Novedades Tributarias (CFR) N° 29](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 29.pdf)
+
 ### Enero
 
 + [Informe de Novedades Tributarias (CFR) N° 28](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 28.pdf)
