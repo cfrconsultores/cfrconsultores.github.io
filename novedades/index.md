@@ -8,17 +8,13 @@ id: novedades
 
 ## 2017
 
-### Junio
+### Mayo
 
 + [Informe de Novedades Tributarias (CFR) N° 32](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 32.pdf)
 
-### Mayo
-
-+ [Informe de Novedades Tributarias (CFR) N° 31](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 31.pdf)
-
 ### Abril
 
-+ [Informe de Novedades Tributarias (CFR) N° 30](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 30.pdf)
++ [Informe de Novedades Tributarias (CFR) N° 31](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 31.pdf)
 
 ### Marzo
 
