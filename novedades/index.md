@@ -8,6 +8,10 @@ id: novedades
 
 ## 2017
 
+### Agosto
+
++ [Informe de Novedades Tributarias (CFR) N° 34](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 34.pdf)
+
 ### Julio
 
 + [Informe de Novedades Tributarias (CFR) N° 33](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 33.pdf)
