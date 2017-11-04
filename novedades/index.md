@@ -8,6 +8,10 @@ id: novedades
 
 ## 2017
 
+### Octubre
+
++ [Informe de Novedades Tributarias (CFR) N° 36](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 36.pdf)
+
 ### Septiembre
 
 + [Informe de Novedades Tributarias (CFR) N° 35](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 35.pdf)
