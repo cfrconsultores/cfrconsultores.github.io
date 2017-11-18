@@ -10,6 +10,7 @@ id: novedades
 
 ### Octubre
 
++ [Consenso Fiscal Ciudad de Buenos Aires](/informes/pdf/Consenso Fiscal 2017.pdf)
 + [Informe de Novedades Tributarias (CFR) N° 36](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 36.pdf)
 
 ### Septiembre
