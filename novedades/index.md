@@ -8,6 +8,10 @@ id: novedades
 
 ## 2017
 
+### Noviembre
+
++ [Informe de Novedades Tributarias (CFR) N° 37](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 37.pdf)
+
 ### Octubre
 
 + [Consenso Fiscal Ciudad de Buenos Aires](/informes/pdf/Consenso Fiscal 2017.pdf)
