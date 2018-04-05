@@ -8,6 +8,10 @@ id: novedades
 
 ## 2018
 
+### Marzo
+
++ [Informe de Novedades Tributarias (CFR) N° 40](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 40.pdf)
+
 ### Febrero
 
 + [Informe de Novedades Tributarias (CFR) N° 39](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 39.pdf)
