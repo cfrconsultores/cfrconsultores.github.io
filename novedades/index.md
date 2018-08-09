@@ -15,7 +15,6 @@ id: novedades
 ### Junio
 
 + [Informe de Novedades Tributarias (CFR) N° 42 ](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 42.pdf)
-
 + [Informe de Novedades Tributarias (CFR) N° 41 / Edición Especial](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 41.pdf)
 
 ### Marzo
