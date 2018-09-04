@@ -8,7 +8,7 @@ id: novedades
 
 ## 2018
 
-### Agosto_2016
+### Agosto
 
 + [Informe de Novedades Tributarias (CFR) N° 44](/informes/pdf/Informe de Novedades Tributarias CFR N° 44.pdf)
 
