@@ -8,6 +8,10 @@ id: novedades
 
 ## 2018
 
+### Septiembre
+
++ [Informe de Novedades Tributarias (CFR) N° 45](/informes/pdf/Informe de Novedades Tributarias CFR N° 45.pdf)
+
 ### Agosto
 
 + [Informe de Novedades Tributarias (CFR) N° 44](/informes/pdf/Informe de Novedades Tributarias CFR N° 44.pdf)
