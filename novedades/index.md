@@ -10,7 +10,7 @@ id: novedades
 
 ### Octubre
 
-+ [Informe de Novedades Tributarias (CFR) N° 46](/informes/pdf/Informe de Novedades Tributarias CFR N° 46.pdf)
++ [Informe de Novedades Tributarias (CFR) N° 46](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 46.pdf)
 
 ### Septiembre
 
