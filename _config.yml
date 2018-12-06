@@ -49,3 +49,6 @@ address:
   - line: Beverly Hills, CA 90210
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+
+plugins:
+  - jekyll-redirect-from

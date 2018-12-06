@@ -1,4 +1,5 @@
 ---
+redirect_from: "/alianzas/luna-requena-y-fernandez-borzese/"
 layout: internal
 title: "Alianzas - CFR"
 id: alianzas
