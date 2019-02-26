@@ -6,6 +6,12 @@ subtitle: te mantendremos actualizado
 id: novedades
 ---
 
+## 2019
+
+### Febrero
+
++ [Informe de Novedades Tributarias (CFR) N° 47](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 47.pdf)
+
 ## 2018
 
 ### Octubre
