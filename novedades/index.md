@@ -8,6 +8,10 @@ id: novedades
 
 ## 2019
 
+### Abril
+
++ [Informe de Novedades Tributarias (CFR) N° 48](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 48.pdf)
+
 ### Febrero
 
 + [Informe de Novedades Tributarias (CFR) N° 47](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 47.pdf)
