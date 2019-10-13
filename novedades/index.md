@@ -8,6 +8,10 @@ id: novedades
 
 ## 2019
 
+### Octubre
+
++ [Informe de Novedades Tributarias (CFR) N° 51](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 51.pdf)
+
 ### Julio
 
 + [Informe de Novedades Tributarias (CFR) N° 50](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 50.pdf)
