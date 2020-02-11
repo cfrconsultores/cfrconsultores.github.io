@@ -6,6 +6,12 @@ subtitle: te mantendremos actualizado
 id: novedades
 ---
 
+## 2020
+
+### Enero
+
++ [Informe de Novedades Tributarias (CFR) N° 53](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 53.pdf)
+
 ## 2019
 
 ### Noviembre
