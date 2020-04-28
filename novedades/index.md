@@ -8,6 +8,14 @@ id: novedades
 
 ## 2020
 
+### Abril
+
++ [Informe de Novedades Tributarias (CFR) N° 55](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 55.pdf)
+
+### Marzo
+
++ [Informe de Novedades Tributarias (CFR) N° 54](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 54.pdf)
+
 ### Enero
 
 + [Informe de Novedades Tributarias (CFR) N° 53](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 53.pdf)
