@@ -8,6 +8,11 @@ id: novedades
 
 ## 2020
 
+
+### Junio
+
++ [Informe de Novedades Tributarias (CFR) N° 57](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 57.pdf)
+
 ### Mayo
 
 + [Informe de Novedades Tributarias (CFR) N° 56](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 56.pdf)
