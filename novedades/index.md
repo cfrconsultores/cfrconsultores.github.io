@@ -8,6 +8,10 @@ id: novedades
 
 ## 2020
 
+### Noviembre
+
++ [Informe de Novedades Tributarias (CFR) N° 59](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 59.pdf)
+
 ### Octubre
 
 + [Informe de Novedades Tributarias (CFR) N° 58](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 58.pdf)
