@@ -6,6 +6,12 @@ subtitle: te mantendremos actualizado
 id: novedades
 ---
 
+## 2021
+
+### Febrero
+
++ [Informe de Novedades Tributarias (CFR) N° 60](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 60.pdf)
+
 ## 2020
 
 ### Noviembre
