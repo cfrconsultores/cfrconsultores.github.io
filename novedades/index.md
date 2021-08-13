@@ -8,6 +8,10 @@ id: novedades
 
 ## 2021
 
+### Agosto
+
++ [Informe de Novedades Tributarias (CFR) N° 62](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 62.pdf)
+
 ### Junio
 
 + [Informe de Novedades Tributarias (CFR) N° 61](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 61.pdf)
