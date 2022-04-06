@@ -6,6 +6,12 @@ subtitle: te mantendremos actualizado
 id: novedades
 ---
 
+## 2022
+
+### Marzo
+
++ [Informe de Novedades Tributarias (CFR) N° 65](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 65.pdf)
+
 ## 2021
 
 ### Noviembre
