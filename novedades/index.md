@@ -8,6 +8,10 @@ id: novedades
 
 ## 2022
 
+### Julio
+
++ [Informe de Novedades Tributarias (CFR) N° 66](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 66.pdf)
+
 ### Marzo
 
 + [Informe de Novedades Tributarias (CFR) N° 65](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 65.pdf)
