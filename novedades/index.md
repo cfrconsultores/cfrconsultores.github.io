@@ -10,7 +10,7 @@ id: novedades
 
 ### Julio
 
-+ [Informe de Novedades Tributarias (CFR) N° 66](/informes/pdf/Informe de Novedades Tributarias (CFR) N° 66.pdf)
++ [Informe de Novedades Tributarias (CFR) N° 66](/informes/pdf/Informe de Novedades Tributarias (CFR) N°66.pdf)
 
 ### Marzo
 
